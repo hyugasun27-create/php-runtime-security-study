@@ -56,6 +56,14 @@ All testing was intended for an authorized training environment.
 - Practice log analysis and incident timelines.
 - Build a patch-verification checklist.
 - Apply the same offensive-to-defensive methodology to additional labs.
+- ## Lab Report and Resources
+
+- [Download the PHP2Shell Purple Hat Lab Report](./PHP2Shell_Purple_Hat_Report_Public.docx)
+- [Download the Complete Project Bundle](./php-runtime-security-study-github-ready.zip)
+
+The report documents my learning, technical observations, troubleshooting process, defensive analysis, remediation concepts, and interview preparation.
+
+**Focus:** Purple Hat cybersecurity — understanding offensive techniques and translating them into defensive improvements.
 
 ---
 
